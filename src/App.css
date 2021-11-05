@@ -1,4 +1,4 @@
-/***    General     ***/
+/*    General     */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -33,7 +33,7 @@ body {
     text-transform: capitalize
 }
 
-/***    Landing Page     ***/
+/*   Landing    */
 .main-title,
 .main-para {
     color: #000000
@@ -125,12 +125,9 @@ input {
     transition: all .5s
 }
 
-//footer p {
-    margin: 0;
-    font-size: .9rem
-}
 
-/***    Register Page     ***/
+
+/*  Register Page     */
 #checkbox {
     width: 1rem
 }
@@ -143,7 +140,7 @@ form span {
     float: left
 }
 
-/***    Home Page     ***/
+/*   Home Page     */
 .home-page-title {
     color: #222
 }
