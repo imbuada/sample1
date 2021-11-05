@@ -125,6 +125,13 @@ input {
     transition: all .5s
 }
 
+<<<<<<< HEAD
+footer p {
+    margin: 0;
+    font-size: .9rem
+}
+=======
+>>>>>>> 15498dfbdff14eb45757f780a06a7bbff6a58d77
 
 
 /*  Register Page     */
